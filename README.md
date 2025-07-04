@@ -1,3 +1,5 @@
+Hey,I am Ken Maina
+A passionate Web developer/from Kirinyaga
 - 👋 Hi, I’m @kenpetermaina
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning information technology
