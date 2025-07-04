@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on building my website
-- 📫 How to reach me contact me 0113381186
+- 📫 How to reach me contact me 0113381186 or through kenp7145@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
