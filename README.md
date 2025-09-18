@@ -1,6 +1,10 @@
 Hey, I am Ken Maina  
 A passionate Web developer from Kirinyaga
 
+## 👤 Bio
+
+Hi, I'm Ken Maina, a passionate web developer from Kirinyaga, Kenya. I specialize in frontend development, currently focusing on React and Next.js. With experience building applications like QR code generators and hospital management systems, I'm eager to collaborate and learn new technologies. Let's connect!
+
 - 👋 Hi, I’m @kenpetermaina
 - 👀 I’m a Frontend developer
 - Currently learning React and Next Js for backend
