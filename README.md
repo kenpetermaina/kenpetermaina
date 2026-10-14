@@ -49,8 +49,8 @@ Software Engineer focused on building reliable, scalable, and user-centered digi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenpetermaina&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 ## Connect
-- 📫 Email: your-email@example.com
+- 📫 Email: Kenp7145@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/yourprofile
-- 🌐 Portfolio: https://yourportfolio.com
+- 🌐 Portfolio: https://kenmaina.vercel.app/
 
 > Building software that is simple, effective, and worth using.
